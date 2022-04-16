@@ -5,7 +5,7 @@ This repo aims to be a minimal starter kit for building a web application using 
 # Dependencies
 
 You must have the following installed
-- Lua / Luajit
+- lua 5.1+ or luajit
 - OpenResty [Installation Instructions](https://openresty.org/en/installation.html)
 - - Fennel [Installation Instructions](https://fennel-lang.org/setup#downloading-fennel)
   - Easily installed via [luarocks](https://luarocks.org)
